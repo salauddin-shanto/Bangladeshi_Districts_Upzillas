@@ -1,0 +1,510 @@
+Akkelpur Upazila
+Joypurhat Sadar Upazila
+Kalai Upazila
+Khetlal Upazila
+Panchbibi Upazila
+Adamdighi Upazila
+Bogra Sadar Upazila
+Dhunat Upazila
+Dhupchanchia Upazila
+Gabtali Upazila
+Kahaloo Upazila
+Nandigram Upazila
+Sariakandi Upazila
+Shajahanpur Upazila
+Sherpur Upazila
+Shibganj Upazila
+Sonatola Upazila
+Atrai Upazila
+Badalgachhi Upazila
+Manda Upazila
+Dhamoirhat Upazila
+Mohadevpur Upazila
+Naogaon Sadar Upazila
+Niamatpur Upazila
+Patnitala Upazila
+Porsha Upazila
+Raninagar Upazila
+Sapahar Upazila
+Bagatipara Upazila
+Baraigram Upazila
+Gurudaspur Upazila
+Lalpur Upazila
+Natore Sadar Upazila
+Singra Upazila
+Naldanga Upazila
+Bholahat Upazila
+Gomastapur Upazila
+Nachole Upazila
+Nawabganj Sadar Upazila
+Shibganj Upazila
+Ataikula Upazila
+Atgharia Upazila
+Bera Upazila
+Bhangura Upazila
+Chatmohar Upazila
+Faridpur Upazila
+Ishwardi Upazila
+Pabna Sadar Upazila
+Santhia Upazila
+Sujanagar Upazila
+Belkuchi Upazila
+Chauhali Upazila
+Kamarkhanda Upazila
+Kazipur Upazila
+Raiganj Upazila
+Shahjadpur Upazila
+Sirajganj Sadar Upazila
+Tarash Upazila
+Ullahpara Upazila
+Bagha Upazila
+Bagmara Upazila
+Charghat Upazila
+Durgapur Upazila
+Godagari Upazila
+Mohanpur Upazila
+Paba Upazila
+Puthia Upazila
+Tanore Upazila
+Boalia Thana
+Matihar Thana
+Rajpara Thana
+Shah Mokdum Thana
+Birampur Upazila
+Birganj Upazila
+Biral Upazila
+Bochaganj Upazila
+Chirirbandar Upazila
+Phulbari Upazila
+Ghoraghat Upazila
+Hakimpur Upazila
+Kaharole Upazila
+Khansama Upazila
+Dinajpur Sadar Upazila
+Nawabganj Upazila
+Parbatipur Upazila
+Phulchhari Upazila
+Gaibandha Sadar Upazila
+Gobindaganj Upazila
+Palashbari Upazila
+Sadullapur Upazila
+Sughatta Upazila
+Sundarganj Upazila
+Bhurungamari Upazila
+Char Rajibpur Upazila
+Chilmari Upazila
+Phulbari Upazila
+Kurigram Sadar Upazila
+Nageshwari Upazila
+Rajarhat Upazila
+Raomari Upazila
+Ulipur Upazila
+Aditmari Upazila
+Hatibandha Upazila
+Kaliganj Upazila
+Lalmonirhat Sadar Upazila
+Patgram Upazila
+Dimla Upazila
+Domar Upazila
+Jaldhaka Upazila
+Kishoreganj Upazila
+Nilphamari Sadar Upazila
+Saidpur Upazila
+Atwari Upazila
+Boda Upazila
+Debiganj Upazila
+Panchagarh Sadar Upazila
+Tetulia Upazila
+Badarganj Upazila
+Gangachhara Upazila
+Kaunia Upazila
+Rangpur Sadar Upazila
+Mithapukur Upazila
+Pirgachha Upazila
+Pirganj Upazila
+Taraganj Upazila
+Baliadangi Upazila
+Haripur Upazila
+Pirganj Upazila
+Ranisankail Upazila
+Thakurgaon Sadar Upazila
+Amtali Upazila
+Bamna Upazila
+Barguna Sadar Upazila
+Betagi Upazila
+Patharghata Upazila
+Taltoli Upazila
+Agailjhara Upazila
+Babuganj Upazila
+Bakerganj Upazila
+Banaripara Upazila
+Gaurnadi Upazila
+Hizla Upazila
+Barisal Sadar Upazila
+Mehendiganj Upazila
+Muladi Upazila
+Wazirpur Upazila
+Bhola Sadar Upazila
+Burhanuddin Upazila
+Char Fasson Upazila
+Daulatkhan Upazila
+Lalmohan Upazila
+Manpura Upazila
+Tazumuddin Upazila
+Jhalokati Sadar Upazila
+Kathalia Upazila
+Nalchity Upazila
+Rajapur Upazila
+Bauphal Upazila
+Dashmina Upazila
+Galachipa Upazila
+Kalapara Upazila
+Mirzaganj Upazila
+Patuakhali Sadar Upazila
+Rangabali Upazila
+Dumki Upazila
+Bhandaria Upazila
+Kawkhali Upazila
+Mathbaria Upazila
+Nazirpur Upazila
+Pirojpur Sadar Upazila
+Nesarabad (Swarupkati) Upazila
+Zianagor Upazila
+Ali Kadam Upazila
+Bandarban Sadar Upazila
+Lama Upazila
+Naikhongchhari Upazila
+Rowangchhari Upazila
+Ruma Upazila
+Thanchi Upazila
+Akhaura Upazila
+Bancharampur Upazila
+Brahmanbaria Sadar Upazila
+Kasba Upazila
+Nabinagar Upazila
+Nasirnagar Upazila
+Sarail Upazila
+Ashuganj Upazila
+Bijoynagar Upazila
+Chandpur Sadar Upazila
+Faridganj Upazila
+Haimchar Upazila
+Haziganj Upazila
+Kachua Upazila
+Matlab Dakshin Upazila
+Matlab Uttar Upazila
+Shahrasti Upazila
+Anwara Upazila
+Banshkhali Upazila
+Boalkhali Upazila
+Chandanaish Upazila
+Fatikchhari Upazila
+Hathazari Upazila
+Lohagara Upazila
+Mirsharai Upazila
+Patiya Upazila
+Rangunia Upazila
+Raozan Upazila
+Sandwip Upazila
+Satkania Upazila
+Sitakunda Upazila
+Bandor (Chittagong Port) Thana
+Chandgaon Thana
+Double Mooring Thana
+Kotwali Thana
+Pahartali Thana
+Panchlaish Thana
+Barura Upazila
+Brahmanpara Upazila
+Burichang Upazila
+Chandina Upazila
+Chauddagram Upazila
+Daudkandi Upazila
+Debidwar Upazila
+Homna Upazila
+Laksam Upazila
+Muradnagar Upazila
+Nangalkot Upazila
+Comilla Adarsha Sadar Upazila
+Meghna Upazila
+Titas Upazila
+Monohargonj Upazila
+Comilla Sadar Dakshin Upazila
+Chakaria Upazila
+Cox's Bazar Sadar Upazila
+Kutubdia Upazila
+Maheshkhali Upazila
+Ramu Upazila
+Teknaf Upazila
+Ukhia Upazila
+Pekua Upazila
+Chhagalnaiya Upazila
+Daganbhuiyan Upazila
+Feni Sadar Upazila
+Parshuram Upazila
+Sonagazi Upazila
+Fulgazi Upazila
+Dighinala Upazila
+Khagrachhari Upazila
+Lakshmichhari Upazila
+Mahalchhari Upazila
+Manikchhari Upazila
+Matiranga Upazila
+Panchhari Upazila
+Ramgarh Upazila
+Lakshmipur Sadar Upazila
+Raipur Upazila
+Ramganj Upazila
+Ramgati Upazila
+Kamalnagar Upazila
+Begumganj Upazila
+Noakhali Sadar Upazila
+Chatkhil Upazila
+Companiganj Upazila
+Hatiya Upazila
+Senbagh Upazila
+Sonaimuri Upazila
+Subarnachar Upazila
+Kabirhat Upazila
+Bagaichhari Upazila
+Barkal Upazila
+Kawkhali (Betbunia) Upazila
+Belaichhari Upazila
+Kaptai Upazila
+Juraichhari Upazila
+Langadu Upazila
+Naniyachar Upazila
+Rajasthali Upazila
+Rangamati Sadar Upazila
+Dhamrai Upazila
+Dohar Upazila
+Keraniganj Upazila
+Nawabganj Upazila
+Savar Upazila
+Alfadanga Upazila
+Bhanga Upazila
+Boalmari Upazila
+Charbhadrasan Upazila
+Faridpur Sadar Upazila
+Madhukhali Upazila
+Nagarkanda Upazila
+Sadarpur Upazila
+Saltha Upazila
+Gazipur Sadar Upazila
+Kaliakair Upazila
+Kaliganj Upazila
+Kapasia Upazila
+Sreepur Upazila
+Gopalganj Sadar Upazila
+Kashiani Upazila
+Kotalipara Upazila
+Muksudpur Upazila
+Tungipara Upazila
+Baksiganj Upazila
+Dewanganj Upazila
+Islampur Upazila
+Jamalpur Sadar Upazila
+Madarganj Upazila
+Melandaha Upazila
+Sarishabari Upazila
+Astagram Upazila
+Bajitpur Upazila
+Bhairab Upazila
+Hossainpur Upazila
+Itna Upazila
+Karimganj Upazila
+Katiadi Upazila
+Kishoreganj Sadar Upazila
+Kuliarchar Upazila
+Mithamain Upazila
+Nikli Upazila
+Pakundia Upazila
+Tarail Upazila
+Rajoir Upazila
+Madaripur Sadar Upazila
+Kalkini Upazila
+Shibchar Upazila
+Daulatpur Upazila
+Ghior Upazila
+Harirampur Upazila
+Manikgonj Sadar Upazila
+Saturia Upazila
+Shivalaya Upazila
+Singair Upazila
+Gazaria Upazila
+Lohajang Upazila
+Munshiganj Sadar Upazila
+Sirajdikhan Upazila
+Sreenagar Upazila
+Tongibari Upazila
+Bhaluka Upazila
+Dhobaura Upazila
+Fulbaria Upazila
+Gaffargaon Upazila
+Gauripur Upazila
+Haluaghat Upazila
+Ishwarganj Upazila
+Mymensingh Sadar Upazila
+Muktagachha Upazila
+Nandail Upazila
+Phulpur Upazila
+Trishal Upazila
+Tara Khanda Upazila
+Araihazar Upazila
+Bandar Upazila
+Narayanganj Sadar Upazila
+Rupganj Upazila
+Sonargaon Upazila
+Atpara Upazila
+Barhatta Upazila
+Durgapur Upazila
+Khaliajuri Upazila
+Kalmakanda Upazila
+Kendua Upazila
+Madan Upazila
+Mohanganj Upazila
+Netrokona Sadar Upazila
+Purbadhala Upazila
+Baliakandi Upazila
+Goalandaghat Upazila
+Pangsha Upazila
+Rajbari Sadar Upazila
+Kalukhali Upazila
+Bhedarganj Upazila
+Damudya Upazila
+Gosairhat Upazila
+Naria Upazila
+Shariatpur Sadar Upazila
+Zanjira Upazila
+Shakhipur Upazila
+Jhenaigati Upazila
+Nakla Upazila
+Nalitabari Upazila
+Sherpur Sadar Upazila
+Sreebardi Upazila
+Gopalpur Upazila
+Basail Upazila
+Bhuapur Upazila
+Delduar Upazila
+Ghatail Upazila
+Kalihati Upazila
+Madhupur Upazila
+Mirzapur Upazila
+Nagarpur Upazila
+Sakhipur Upazila
+Dhanbari Upazila
+Tangail Sadar Upazila
+Narsingdi Sadar Upazila
+Belabo Upazila
+Monohardi Upazila
+Palash Upazila
+Raipura Upazila
+Shibpur Upazila
+Bagerhat Sadar Upazila
+Chitalmari Upazila
+Fakirhat Upazila
+Kachua Upazila
+Mollahat Upazila
+Mongla Upazila
+Morrelganj Upazila
+Rampal Upazila
+Sarankhola Upazila
+Alamdanga Upazila
+Chuadanga Sadar Upazila
+Damurhuda Upazila
+Jibannagar Upazila
+Abhaynagar Upazila
+Bagherpara Upazila
+Chaugachha Upazila
+Jhikargachha Upazila
+Keshabpur Upazila
+Jessore Sadar Upazila
+Manirampur Upazila
+Sharsha Upazila
+Harinakunda Upazila
+Jhenaidah Sadar Upazila
+Kaliganj Upazila
+Kotchandpur Upazila
+Maheshpur Upazila
+Shailkupa Upazila
+Batiaghata Upazila
+Dacope Upazila
+Dumuria Upazila
+Dighalia Upazila
+Koyra Upazila
+Paikgachha Upazila
+Phultala Upazila
+Rupsha Upazila
+Terokhada Upazila
+Daulatpur Thana
+Khalishpur Thana
+Khan Jahan Ali Thana
+Kotwali Thana
+Sonadanga Thana
+Harintana Thana
+Bheramara Upazila
+Daulatpur Upazila
+Khoksa Upazila
+Kumarkhali Upazila
+Kushtia Sadar Upazila
+Mirpur Upazila
+Shekhpara Upazila
+Magura Sadar Upazila
+Mohammadpur Upazila
+Shalikha Upazila
+Sreepur Upazila
+Gangni Upazila
+Meherpur Sadar Upazila
+Mujibnagar Upazila
+Kalia Upazila
+Lohagara Upazila
+Narail Sadar Upazila
+Naragati Thana
+Assasuni Upazila
+Debhata Upazila
+Kalaroa Upazila
+Kaliganj Upazila
+Satkhira Sadar Upazila
+Shyamnagar Upazila
+Tala Upazila
+Ajmiriganj Upazila
+Bahubal Upazila
+Baniyachong Upazila
+Chunarughat Upazila
+Habiganj Sadar Upazila
+Lakhai Upazila
+Madhabpur Upazila
+Nabiganj Upazila
+Barlekha Upazila
+Kamalganj Upazila
+Kulaura Upazila
+Moulvibazar Sadar Upazila
+Rajnagar Upazila
+Sreemangal Upazila
+Juri Upazila
+Bishwamvarpur Upazila
+Chhatak Upazila
+Derai Upazila
+Dharampasha Upazila
+Dowarabazar Upazila
+Jagannathpur Upazila
+Jamalganj Upazila
+Sullah Upazila
+Sunamganj Sadar Upazila
+Tahirpur Upazila
+South Sunamganj Upazila
+Balaganj Upazila
+Beanibazar Upazila
+Bishwanath Upazila
+Companigonj Upazila
+Fenchuganj Upazila
+Golapganj Upazila
+Gowainghat Upazila
+Jaintiapur Upazila
+Kanaighat Upazila
+Sylhet Sadar Upazila
+Zakiganj Upazila
+South Shurma Upazila
+
+
+
